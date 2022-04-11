@@ -19,4 +19,4 @@ You have to chose some alternatives:
 
 Great! Gradle is now configured in the folder. You can verify this by doing `ls`{{execute}}, and you will see new gradle files in the directory. 
 
-It's time to change the gradle.build file so that gradle can understand 
+
