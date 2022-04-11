@@ -2,6 +2,7 @@
 
 It's time to change the gradle.build file so that gradle can understand that we want to use Cucumber. Remove the text in the gradle.build file and replace it with the following: 
 
+<pre class="file" data-filename="./cucumber-project/build.gradle" data-target="insert">
 plugins {
     id 'java'
 }
@@ -34,6 +35,7 @@ task cucumber() {
         }
     }
 }
+</pre>
 
 `printf 'Jello, world!\n\n'`{{execute}}
 
