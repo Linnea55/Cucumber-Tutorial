@@ -12,7 +12,7 @@ Create a java file called Prime.java:
 
 `touch Prime.java`{{execute}}
 
-<pre class="file" data-filename="./cucumber-project/src/main/java/Prime.java" data-target="replace">
+<pre class="file" data-filename="./cucumber-project/src/main/java/Prime.java" data-target="add">
 package gradle.cucumber;
 
 
