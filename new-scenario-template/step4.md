@@ -3,6 +3,7 @@
 It's finally time to make our cucumber testing file! It should be in the resources directory. Let's enter that folder:
 
 `cd`{{execute}}
+
 `cd cucumber-project/src/test/resources`{{execute}}
 
 Cucumber testing files have the extension .feature. We create such a file in the resources directory:
