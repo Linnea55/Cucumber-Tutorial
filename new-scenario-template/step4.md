@@ -14,7 +14,7 @@ special keywords. First we must write "Feature:" followed by some text. The text
 The next keyword is "Scenario:" which should be followed by a text that describes the scenario we want to test. In our case, we want to provide two scenarios; one when the number
 we play with is a prime and one when it's not. For the tests we will use the keywords "Given", "When", and "Then", which....
 
-<pre class="file" data-filename="./cucumber-project/src/main/java/cucumber/project/Prime.java" data-target="replace">
+<pre class="file" data-filename="./cucumber-project/src/test/resources/Prime.feature" data-target="replace">
 Feature: Prime game play
 
   Scenario: Play prime to get prime
