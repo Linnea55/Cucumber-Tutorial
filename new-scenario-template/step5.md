@@ -24,12 +24,12 @@ import org.junit.jupiter.api.Assertions;
 
 public class PrimeStepdefs{
 
-    gradle.cucumber.Prime prime;
+    cucumber.project.Prime prime;
     String result;
 
     @Given("^Create a Prime game play$")
     public void createaPrimegameplay() throws Throwable {
-        prime = new gradle.cucumber.Prime();
+        prime = new cucumber.project.Prime();
     }
 
     @When("^I play with number (\\d+)$")
