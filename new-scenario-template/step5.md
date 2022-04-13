@@ -1,4 +1,4 @@
-# Define the steps in the .feature file
+# Define the steps in the .feature file and run tests
 
 We must define the steps we have created in the Prime.feature file. We do this in a new file called PrimeStepdefs.java located in the test/java folder. Let's enter that
 folder:
@@ -47,3 +47,16 @@ public class AppTest{
    
 }
 </pre>
+
+Wow! We are now ready to run the tests! This must be done from the cucumber-project directory. Exit the current one:
+
+`cd`{{execute}}
+
+Enter cucumber-project directory:
+
+`cd cucumber-project`{{execute}}
+
+And run the tests:
+
+`gradle cucumber`{{execute}}
+
