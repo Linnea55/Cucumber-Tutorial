@@ -15,7 +15,7 @@ This file defines what should be checked for lines starting with the keyword "Gi
 brackets that comes after the keyword is the same as the corresponding text in the Prime.feature file.
 
 <pre class="file" data-filename="./cucumber-project/src/test/cucumber/project/PrimeStepdefs.java" data-target="replace">
-package gradle.cucumber;
+package cucumber.project;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
