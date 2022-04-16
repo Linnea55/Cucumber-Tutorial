@@ -2,12 +2,12 @@
 
 ## Description
 
-Cucumber is a open source testing tool which supports Behavior-driven development approach. In this katacoda tutorial, we are going to show you how a test automation can be done using Cucumber, and provide benefits of Cucumber in test automation.
+ In this katacoda tutorial, we are going to show you how a test automation can be done using a testing tool called Cucumber, and provide benefits of Cucumber in test automation.
 
 ## Learning Objective
 
 - How to create a gradle project
-- What is Cucumber, and why it's important 
+- What is Cucumber, and why it's beneficial
 - How to perform automated test using Cucumber with Gradle
 
 ## Prerequisite Skills
