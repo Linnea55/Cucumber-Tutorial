@@ -1,6 +1,6 @@
 # Create Prime.java
 
-Now let's create some function on which we are going to run tests later. The fucntion we will write is one that checks if the provided number is a prime or not.
+Now let's create some function on which we are going to run tests later. The function we will write is one that checks if the provided number is a prime or not.
 
 Enter the project directory in main:
 
