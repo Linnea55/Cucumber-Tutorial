@@ -1,16 +1,16 @@
-# Background: Why use tests, and why have them automatated?
+# Background: Why Use Tests, and Why Have Them Automated?
 
-In DevOps, testing is crucial- we must be sure that what we have created does what we intended it to do. It's also beneficial to perform testing automatically rather than do it manually, since it's more efficient. Test automation enables software developers and comapanies to save time, money, effort, and helps deployment of applications with better quality.
+In DevOps, testing is crucial- we must be sure that what we have created does what we intended it to do. It's also beneficial to perform testing automatically rather than do it manually, since it's more efficient. Test automation enables software developers and companies to save time, money, effort, and helps to have applications with better quality.
 
-# Background: What is Cucumber and why should it be used?
+# Background: What Is Cucumber and Why Should It Be Used?
 
-There are many different ways to perform tests automatically. However, sometimes it's convinient if the tests can be understood by a non-programmer, for instance your client or the CEO of your company, or by a person that understands a different programming languages. Cucumber helps us do this by creating behaviour around tests. The behaviour makes it easy to understand a specific feature of the code, even if it's read by a non-technical person. Cucumber is an open source testing tool which supports `Behavior-driven development` (BDD) approach. In BDD, expected behaviours (examples) in the application is described in some ubiquitous language, and those examples are used for the automated tests. In Cucumber, those examples which illustrates software's behavior are called `Scenarios`, and we're going to describe it in `.feature` file. In order for Cucumber to execute a scenario we also need to create `Step definitions` which defines steps in a scenario. We'll come back to it later. To summarize: Cucumber's BDD approch works well for better collaboration between different teams in development, and customers. This is largely thanks to the behavior scenarios which can be written and understood by anyone with plain language.
+There are many different ways to perform tests automatically. However, sometimes it's convenient if the tests can be understood by a non-programmer, for instance your client or the CEO of your company, or by a person that understands a different programming language. Cucumber helps us do this by creating behavior around tests. The behavior makes it easy to understand a specific feature of the code, even if it's read by a non-technical person. Cucumber is an open source testing tool which supports `Behavior-driven development` (BDD) approach. In BDD, expected behaviors (examples) in the application are described in some ubiquitous language, and those examples are used for the automated tests. In Cucumber, those examples which illustrate software's behavior are called `Scenarios`, and we're going to describe it in `.feature` file. In order for Cucumber to execute a scenario we also need to create `Step definitions` which define steps in a scenario. We'll come back to it later. To summarize: Cucumber's BDD approach works well for better collaboration between different teams in development, and customers. This is largely thanks to the behavior scenarios which can be written and understood by anyone with plain language.
 
 # Benefits of Cucumber
 
 In Cucumber `Behavior-driven development` approach is adopted and it works well for better collaboration between different teams in development, and customers. This is largely thanks to the behavior scenarios which can be written by anyone with plain language. And the `Gherkin language` used for describing the test cases also help the collaboration with its easy to understand style not only for the developer but also for other non-technical persons. 
 
-# Setup a Gradle project
+# Setup a Gradle Project
 
 Let's start with making a folder where we can create our code with cucumber testing:
 
