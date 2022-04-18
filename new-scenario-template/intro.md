@@ -1,4 +1,4 @@
-# Test automation using Cucumber with Gradle
+# Test Automation Using Cucumber with Gradle
 
 ## Description
 
@@ -6,7 +6,7 @@ In this Katacoda tutorial, we are going to show you how a test automation can be
 
 ## Learning Objectives
 
-- What Cucumber and the Gherkin languages is, and why it's beneficial
+- What Cucumber is, and why it's beneficial
 - How to create a Gradle project from cmd
 - How to perform automated testing using Cucumber with Gradle
 
