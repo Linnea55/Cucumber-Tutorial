@@ -7,7 +7,7 @@ In this Katacoda tutorial, we are going to show you how a test automation can be
 ## Learning Objectives
 
 - What Cucumber is, and why it's beneficial
-- How to create a Gradle project from cmd
+- How to create a Gradle project from the command line
 - How to perform automated testing using Cucumber with Gradle
 
 ## Prerequisite Skills
