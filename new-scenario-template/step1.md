@@ -1,6 +1,6 @@
 # Background: Why Use Tests, and Why Have Them Automated?
 
-In DevOps, testing is crucial- we must be sure that what we have created does what we intended it to do. It's also beneficial to perform testing automatically rather than do it manually, since it's more efficient. Test automation enables software developers and companies to save time, money, effort, and helps to have applications with better quality.
+In DevOps, testing is crucial- we must be sure that the program we have created does what we intended it to do. It's also beneficial to perform testing automatically rather than do it manually, since it's more efficient. Test automation enables software developers and companies to save time, money, effort, and helps to have applications with better quality.
 
 # Background: What Is Cucumber and Why Should It Be Used?
 
