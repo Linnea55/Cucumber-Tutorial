@@ -1,15 +1,16 @@
 # Define the Steps in the .feature File and Run Tests
 
-We must define the steps we have created in the `Prime.feature` file. We do this in a file located in the test project directory. Let's enter that
-directory:
+We must define the steps we have created in the `Prime.feature` file. We do this in a file located in the test project directory. Exit the current directory:
 
 `cd`{{execute}}
+
+Enter the test project directory:
 
 `cd cucumber-project/src/test/java/cucumber/project`{{execute}}
 
 By doing `ls`{{execute}} we can see that there is already a test file here called AppTest.java. We want to replace the code in this file. 
 
-This file defines what should be checked for lines starting with the keyword `Given`, `When`, and `Then` (steps) in the `Prime.feature` file. It's important that the text in the 
+This file defines what should be checked for lines starting with either `Given`, `When`, or `Then` (steps) in the `Prime.feature` file. It's important that the text in the 
 brackets that come after the keyword is the same as the corresponding text in the `Prime.feature` file.
 
 <pre class="file" data-filename="./cucumber-project/src/test/java/cucumber/project/AppTest.java" data-target="replace">
