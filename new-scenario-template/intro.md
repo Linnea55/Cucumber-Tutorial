@@ -2,7 +2,7 @@
 
 ## Description
 
-In this Katacoda tutorial, we are going to show you how a test automation can be done using a testing tool called Cucumber in conjuction with Gradle, and provide benefits of Cucumber in test automation. 
+In this Katacoda tutorial, we are going to show you how test automation can be done using a testing tool called Cucumber in conjuction with Gradle, and provide benefits of Cucumber in test automation. 
 
 ## Learning Objectives
 
