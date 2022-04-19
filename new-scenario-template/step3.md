@@ -1,12 +1,13 @@
+
 # Create Prime.java
 
-Now let's create some function on which we are going to run tests later. The function we will write is one that checks if the provided number is a prime or not.
+Now let's create a function that can be tested. The function we will write checks if the provided number is a prime or not.
 
 Enter the project directory in main:
 
 `cd src/main/java/cucumber/project`{{execute}}
 
-Create a java file called Prime.java:
+Create a Java file called Prime.java:
 
 `touch Prime.java`{{execute}}
 
@@ -25,5 +26,3 @@ public class Prime {
     }
 }
 </pre>
-
-
