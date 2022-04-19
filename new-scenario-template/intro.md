@@ -12,8 +12,6 @@ In this Katacoda tutorial, we are going to show you how a test automation can be
 
 ## Prerequisite Skills
 
-Basic knowledge of Java, Gradle and command line
-
-
+Basic knowledge of Java, Gradle, and command line 
 
 
