@@ -1,8 +1,10 @@
 # Scenarios - Create Prime.feature
 
-It's finally time to make our Cucumber testing file. It should be in the resources directory. Let's enter that directory:
+It's finally time to make our Cucumber testing file. It should be in the resources directory. Let's exit the current directory:
 
 `cd`{{execute}}
+
+Enter the resources directory:
 
 `cd cucumber-project/src/test/resources`{{execute}}
 
