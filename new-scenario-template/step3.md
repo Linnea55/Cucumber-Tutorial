@@ -11,6 +11,8 @@ Create a Java file called Prime.java:
 
 `touch Prime.java`{{execute}}
 
+Add the following code that checks if the provided number is a prime or not:
+
 <pre class="file" data-filename="./cucumber-project/src/main/java/cucumber/project/Prime.java" data-target="replace">
 package cucumber.project;
 
