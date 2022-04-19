@@ -12,7 +12,7 @@ Let's start with making a directory where we can create our code with Cucumber t
 
 `mkdir cucumber-project`{{execute}}
 
-And enter the new folder:
+And enter the new directory:
 
 `cd cucumber-project`{{execute}}
 
